@@ -1,0 +1,16 @@
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\bin\Debug\BankS.exe.config
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\bin\Debug\BankS.exe
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\bin\Debug\BankS.pdb
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.Form1.resources
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.Properties.Resources.resources
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.exe
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.pdb
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.Form2.resources
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.Form3.resources
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.csproj.ResolveComReference.cache
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\bin\Debug\Database1.mdb
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\obj\Debug\BankS.FormResult.resources
+C:\Users\Антон\Desktop\Работа\Братану\BankS\BankS\bin\Debug\Database2.mdb
